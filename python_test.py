@@ -1,3 +1,11 @@
-import os
-ld = os.cpu_count()
-print(ld)
+a =4
+b =6
+
+if a ==b:
+    print("Equal")
+
+else:
+    print("Not equal")
+
+
+
