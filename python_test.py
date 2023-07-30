@@ -7,5 +7,6 @@ if a ==b:
 else:
     print("Not equal")
 
+print("hello friend")
 
 
