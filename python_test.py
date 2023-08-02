@@ -1,10 +1,12 @@
 myfruit = [
-    "Aple",
+    "Apple",
     "Banana",
     "Mango",
 ]
 
-for l in myfruit:
-    print(l)
+if "Apple" in  myfruit:
+    print("Yes")
 
-
+else:
+    print("No")
+    
