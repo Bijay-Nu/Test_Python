@@ -1,12 +1,10 @@
-a =4
-b =6
+myfruit = [
+    "Aple",
+    "Banana",
+    "Mango",
+]
 
-if a ==b:
-    print("Equal")
-
-else:
-    print("Not equal")
-
-print("hello friend")
+for l in myfruit:
+    print(l)
 
 
