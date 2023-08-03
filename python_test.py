@@ -1,12 +1,11 @@
-myfruit = [
-    "Apple",
-    "Banana",
-    "Mango",
-]
+mylist = []
 
-if "Apple" in  myfruit:
-    print("Yes")
+a = int(input("How many number you have:\n"))
+for i in range(a):
+    b = int(input("Enter the nubmer: "))
+    mylist.append(b)
 
-else:
-    print("No")
+sq = [j *j for j in mylist]
+print(sq)
     
+
