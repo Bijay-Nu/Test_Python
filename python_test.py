@@ -6,6 +6,8 @@ for i in range(a):
     mylist.append(b)
 
 sq = [j *j for j in mylist]
-print(sq)
+
+for i  in sq:
+    print(i)
     
 

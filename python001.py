@@ -1,5 +1,14 @@
-for i in range(11,300):
-    temp = 0
-    
-    while i > 0:
-        reminder = 
+class Employee():
+    def __init__(self, fname, lname, salary):
+        self.fname = fname
+        self.lname = lname
+        self.salary = salary
+        
+
+bijay = Employee("Bijay", "Tamang", 40000)
+bhim = Employee("Bhim", "Shahi", 40000)
+
+print(bijay.fname)
+
+
+
