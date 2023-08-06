@@ -8,7 +8,8 @@ class Employee():
 bijay = Employee("Bijay", "Tamang", 40000)
 bhim = Employee("Bhim", "Shahi", 40000)
 
-print(bijay.fname)
+print(bijay.fname,  bhim.fname, )
+
 
 
 
