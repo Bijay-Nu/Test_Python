@@ -4,10 +4,9 @@ class Temperature:
 
     def Celsius(self):
         print(f'Fahrenheit is {self.tem}')
-        return 
-    
 
 C = int(input('Enter Temperature of Degrees Celsius: '))
 a = Temperature(C)
-print(a.Celsius())
+a.Celsius()
+
 
