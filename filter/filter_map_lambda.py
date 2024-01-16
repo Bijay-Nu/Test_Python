@@ -88,6 +88,32 @@
 # x = open('filter/my_demo.txt','r')
 # print(x)
 
+# a = 'Hellow orld'
+# b = list(a)
+# b.insert(7,"w")
+# b.extend(' Tq')
+# c="".join(b)
+# print(c)
+
+# my_tuple = ('Bijay', 'Tamang','Home')
+# x = "".join(my_tuple)
+# print(x)
+# list = []
+# def show(num):
+#     lst1 = []
+#     lst2 =[]
+#     for i in num:
+#         if i%2==0:
+#             lst1.append(i)
+#         else:
+#             lst2.append(i)
+#     lst = lst2+lst1
+#     print(lst)
+#     print('even num: ',lst1)
+#     print('Odd num: ',lst2)
+# num = [1,2,3,4,5,6]
+# num.sort(reverse=True)
+# show(num)
 
 
     
